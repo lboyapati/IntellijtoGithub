@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class Vowel {
     public static void main(String[] args) {
+        //editing the changes
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a character input: ");
         String str = sc.next();
