@@ -11,6 +11,7 @@ public class Vowel {
        String str1 = str.toLowerCase();
         switch(str1)
     {
+            //updating the file just for pulling 
         case "a":
         case "e":
         case "i":
